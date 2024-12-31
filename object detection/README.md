@@ -1,4 +1,4 @@
-#About
+# About
 
 This folder holds the required assets and program used to run the object detection module for the visual assistance section.
 
